@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
 
-  "author": "bielkh",
+  "author": "ramonsolfer",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
