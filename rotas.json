@@ -1,0 +1,18 @@
+{
+    "GET /Quartos": "GET/menu/get",
+    "POST /Quartos": "POST/menu/create",
+    "PUT /Quartos": "PUT/menu/update",
+    "DELETE /Quartos": "DELETE/menu/delete",
+    "GET /ServiçosDeLimpeza": "GET/clientes/get",
+    "POST /ServiçosDeLimpeza": "POST/clientes/create",
+    "PUT /ServiçosDeLimpeza": "PUT/clientes/update",
+    "DELETE /ServiçosDeLimpeza": "DELETE/clientes/delete",
+    "GET /funcionarios": "GET/chefes/get",
+    "POST /funcionarios": "POST/chefes/create",
+    "PUT /funcionarios": "PUT/chefes/update",
+    "DELETE /funcionarios": "DELETE/chefes/delete",
+    "GET /Turistas": "GET/funcionarios/get",
+    "POST /Turistas": "POST/funcionarios/create",
+    "PUT /Turistas": "PUT/funcionarios/update",
+    "DELETE /Turistas": "DELETE/funcionarios/delete"
+  }

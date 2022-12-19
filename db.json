@@ -1,0 +1,118 @@
+{
+    "Quartos": [
+        {
+            "id":1,
+            "nome": "Quarto 1001",
+            "Diária": "200.00",
+            "Descrição":"Nossas suítes na cobertura oferecem o auge da indulgência.",
+            "imagem":"https://all.accor.com/magazine/imagerie/all-accor-quarto-de-hotel-de-luxo-em-casa-sofitel-7942.jpg",
+            "categoria_id": 1
+
+        },
+        {
+            "id":2,
+            "nome": "Alimentos",
+            "descricao": "Alimentos e Bebidas que são exclusivas da hotelaria, como o serviço de quarto, banquetes, “catering” e serviço de bebidas alcoólicas.",
+            "preco": 45.00,
+            "Refeição": "Todos os tipos de comida e bebidas",
+            "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgzZOGyrcQfw&psig=AOvVaw0NL9nr5Y8BDHUqLF3mbKy4&ust=1671538813981000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjB-L7VhfwCFQAAAAAdAAAAABAP",
+            "categoria_id": 2
+        },
+        {
+            "id":3,
+            "nome": "Academia",
+            "descricao": "As academias de hotéis estão cada vez melhores, capazes de atender às experiências fitness dos hóspedes, incluindo os de alta performance",
+            "preco": 29.99,
+            "tempo": "Livre qualquer hora do dia.",
+            "imagem":"https://forbes.uol.com.br/wp-content/uploads/2019/04/lifestyle-academia-hotel7-050419-forbes-1.jpg",
+            "categoria_id": 3
+        }
+        ],
+        
+        "ServiçosDeLimpeza": [
+            {
+                "id":1,
+                "nome": "Ana",
+                "cargo": "limpeza",
+                "setor": "salão",
+                "especialidade":"limpar e manter o espaço organizado e limpo.",
+                "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fnuvemgestor.com.br%2Fsoftware-gestao-empresas%2Fsistema-gerenciamento%2Fsistema-para-empresa-limpeza-servicos-domenticos%2Fsistema-para-empresa-limpeza-servicos-domenticos.asp&psig=AOvVaw3xvwmVJkIyx5grjj8cqzDk&ust=1671539638575000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKif3cfYhfwCFQAAAAAdAAAAABAQ",
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "João",
+                "cargo": "limpeza",
+                "setor": "salão",
+                "especialidade":"limpar e manter o espaço organizado e limpo.",
+                "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fbasefacilities.com.br%2Fblog%2Flimpeza-empresarial%2F&psig=AOvVaw3xvwmVJkIyx5grjj8cqzDk&ust=1671539638575000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDSoPvYhfwCFQAAAAAdAAAAABAI",
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Maria",
+                "cargo": "limpeza",
+                "setor": "salão",
+                "especialidade":"limpar e manter o espaço organizado e limpo.",
+                "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedlimp.com.br%2Ftag%2Fprodutos-de-limpeza%2F&psig=AOvVaw3xvwmVJkIyx5grjj8cqzDk&ust=1671539638575000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDSoPvYhfwCFQAAAAAdAAAAABAP",
+                "categoria_id":3
+            }
+        ],
+            "funcionarios": [
+                {
+                    "id":1,
+                    "nome": "Alex",
+                    "turno": "noite",
+                    "cargo": "Gerente",
+                    "salario": "5.000.00",
+                    "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-premium%2Fjovem-gerente-de-hotel-com-tablet-em-frente-a-escada-rolante_17113714.htm&psig=AOvVaw3CUVnRrVeS3t3hkJyBP8A5&ust=1671539970775000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjJxujZhfwCFQAAAAAdAAAAABAD",
+                    "categoria_id": 1
+                },
+                {
+                    "id":2,
+                    "nome": "Gisele",
+                    "turno": "noite",
+                    "cargo": "recepcionista",
+                    "salario": "3.000.00",
+                    "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Ffoto%2F1115556-gerente-de-hotel-na-recepcao&psig=AOvVaw3CUVnRrVeS3t3hkJyBP8A5&ust=1671539970775000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjJxujZhfwCFQAAAAAdAAAAABAI",
+                    "categoria_id": 2
+                },
+                {
+                    "id":3,
+                    "nome": "Larissa",
+                    "turno": "noite",
+                    "cargo": "garçonete",
+                    "salario": "2500",
+                    "imagem":"http://shopblob.blob.core.windows.net/1204-produtoimagem/zoom-ff-GARCONETE(0)(1).jpg",
+                    "categoria_id": 3
+                }
+            ],
+                 "Turistas": [
+            {
+                "id":1,
+                "nome": "Tamires",
+                "nota pro restaurante": "10",
+                "emprego": "advogada",
+                "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww1.folha.uol.com.br%2Fcotidiano%2F2019%2F06%2Fnegros-nao-chegam-a-1-entre-advogados-de-grandes-escritorios-diz-pesquisa.shtml&psig=AOvVaw3Eurk5y1zQmuocW76oVWup&ust=1671540392568000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJir8q3bhfwCFQAAAAAdAAAAABAD",
+                "categoria_id": 1
+            },
+            {
+                "id":2,
+                "nome": "Sara",
+                "nota pro restaurante": "9",
+                "emprego": "médica",
+                "imagem":"https://s2.glbimg.com/5fLR-qS0nkvLaG86cZZBDOnq1zE=/0x0:2200x1444/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/i/8/7ECb5cQFqN6vEwlAi0sg/consc-negra-dsc06661.jpg",
+                "categoria_id": 2
+            },
+            {
+                "id":3,
+                "nome": "Pedro",
+                "nota pro restaurante": "10",
+                "emprego": "Professor",
+                "imagem":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.superprof.com.br%2Fblog%2Fsalario-profe-particular%2F&psig=AOvVaw37C8a-M8yVxzs3TIGnKCTm&ust=1671540526212000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDUqe3bhfwCFQAAAAAdAAAAABAD",
+                "categoria_id": 3
+            }
+            
+        ]
+        
+    }
