@@ -40,7 +40,7 @@
  ### Nomes dos caminhos: 
  - Quartos
  - Serviço de limpeza
- - fFuncionários
+ - Funcionários
  - Turistas
   
  ## Referência 
